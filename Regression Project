@@ -1,0 +1,9 @@
+#  Regression-Project
+
+#  Facebook-Metrics Data
+
+##  Objective is to increase unique users in the facebook page of a cosmetic company
+
+#  Techniques used
+
+##  Missing values, Train-Test split, Dummy Variables, EDA, Normality, Heteroscedasticity, Multicollinearity, PCA, PCR, PLS, Stepwise Search, LASSO
