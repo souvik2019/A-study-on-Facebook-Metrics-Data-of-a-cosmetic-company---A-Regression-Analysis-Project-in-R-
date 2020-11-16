@@ -16,11 +16,11 @@ so that it is beneficial to company's future product plan and overall developeme
      
     (i)  Leverage and influencial point removal
     
-    (ii) Normality Checking and removal
+    (ii) Normality Checking 
     
-   (iii) Heteroscedasticity Checking and removal
+   (iii) Heteroscedasticity Checking 
    
-   (iv)  Multicollinearity Checking and removal
+   (iv)  Multicollinearity Checking 
      
 Finally we got 6% **MAPE**
  
